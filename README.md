@@ -1,4 +1,4 @@
-### Welcome to Jhon Jimenez's coding land 👋
+### Welcome to Jhon Jimenez's coding world 👋
 
 ⚡I dedicate myself to build things, make it fast and keep it running reliably.⚡
 
