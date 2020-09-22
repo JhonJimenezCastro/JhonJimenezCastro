@@ -6,8 +6,7 @@ I am a lover of technology, I am passionate about developing anything innovative
 
 Currently I work on [Maestrik S.A.S](https://github.com/Maestrik) like DevOps Engineer.
 
-### Tech stack 
-
+### Technologies stack 
 
 | icon | name | values |
 | :--: | ---- | ------ |
