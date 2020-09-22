@@ -20,26 +20,10 @@ Currently I work on [Maestrik](https://github.com/Maestrik) like DevOps Engineer
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg' alt='Firebase Firestore' height='16'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='16'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='Postgresql' height='16'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='16'>|DB|Firestore, MySQL, PostgreSQL, MongoDB|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='Kubernetes' height='16'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/terraform.svg' alt='Terraform' height='16'>|Cloud Orchestration|Kubernetes, Terraform|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='Aws' height='16'>|Cloud Providers| Aws|
-|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/githubactions.svg' alt='Github Actions' height='16'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/circleci.svg' alt='CircleCi' height='16'>|CI/CD| Github Actions, CircleCI|
+|<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/githubactions.svg' alt='Github Actions' height='16'>    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/circleci.svg' alt='CircleCi' height='16'>|CI/CD| Github Actions, CircleCI|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='16'>|CSS|Bootstrap|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fontawesome.svg' alt='fontaweseome' height='16'>|Icons|Font Awesome|
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonJimenezCastro&count_private=trueo&show_icons=true)
 
-
-
-<!--
-**JhonJimenezCastro/JhonJimenezCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
