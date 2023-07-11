@@ -1,7 +1,5 @@
 ### Welcome to Jhon Jimenez's coding world 👋
 
-⚡I dedicate myself to build things, make it fast and keep it running reliably.⚡
-
 I am a lover of technology, I am passionate about developing anything innovative and challenging my skills, I love to learn new things every day because I feel that the secret that life is in never stopping to learn. 🚀🚀🚀
 
 ### Technologies stack 
